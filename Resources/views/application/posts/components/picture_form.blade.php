@@ -1,0 +1,1 @@
+{!! form_row($form_post->picture->file) !!}

@@ -1,2 +1,2 @@
 
-Copyright (C) 2019 Rémy LENGLET
+Copyright (C) 2019 Lenglet
