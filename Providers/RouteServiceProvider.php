@@ -51,7 +51,7 @@ class RouteServiceProvider extends ServiceProvider
     {
         Route::prefix('api/blog')
             ->name('blog.api.')
-            ->middleware('api')d
+            ->middleware('api')
             ->namespace($this->moduleNamespace)
             ->group(__DIR__ . '/../Routes/api.php');
     }
